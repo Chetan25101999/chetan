@@ -1,11 +1,10 @@
 import React from "react";
-import HideUnhide from "./HideUnhide";
-import Login from "./Login1";
+import NavBarMain from "./NavBarMain";
 
 const App = () => {
   return (
     <div>
-      <Login />
+      <NavBarMain />
     </div>
   );
 };
